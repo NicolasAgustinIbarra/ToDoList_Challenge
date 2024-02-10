@@ -1,0 +1,1 @@
+C:\Users\nicol\OneDrive\Escritorio\Programacion\ToDoList\todolist.client\obj\Debug\todolist.client.esproj.CoreCompileInputs.cache
